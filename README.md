@@ -1,1 +1,1 @@
-[![Typing SVG](?font=Fira+Code&weight=400&size=20&duration=5000&pause=1000&color=36BCF7FF&background=00000000&center=false&vCenter=false&multiline=false&repeat=true&random=false&width=435&height=50&lines=The+five+boxing+wizards+jump+quickly)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
